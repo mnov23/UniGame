@@ -13,4 +13,3 @@ but that's none of my concern as it is outdated crap out of service not even sup
 + Added source sound and tweaked volume down
 + Added "Player.as" file with the Player Class code
 + Added additional source image assets
-- To add.. final source image assets extracted from the .fla document
